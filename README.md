@@ -30,7 +30,7 @@ Ensure you have Python 3 installed.
 
 
 
-   # Standard Notes to Joplin Converter (ENEX)
+## Standard Notes to Joplin Converter (ENEX)
 
 Tento jednoduchý Python skript slouží k migraci poznámek z aplikace **Standard Notes** do **Joplinu** (nebo jiných aplikací podporujících formát Evernote .enex). 
 
