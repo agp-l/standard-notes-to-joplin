@@ -1,10 +1,9 @@
 ## Usage:
 
 ```bash
-python3 standard-notes-to-enex.py SN_Archive.zip
+python3 standard-notes-to-enex.py
 ```
-If a name like `SN_Archive.zip` is not provided, the script will assume your file is called `notes.zip`.
 
 ## Tutorial
+Name `notes.zip` to standard_notes_to_joplin.enex
 
-[Migrate notes from Standard Notes to Joplin](https://programadorwebvalencia.com/migrate-notes-from-standard-notes-to-joplin/)
